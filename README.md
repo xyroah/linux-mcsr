@@ -1,5 +1,5 @@
 # Linux MCSR
-- A documentation repository to help setting up Linux for MCSR. This is a fork of the original guide by [Sathya](https://github.com/xyroah) for setting up mcsr on mint instead of fedora. 
+- A documentation repository to help setting up Linux for MCSR. This is a fork of the original guide by [Xyroah](https://github.com/xyroah) for setting up mcsr on mint instead of fedora. 
 
 # Getting Started
 - Mint offers a smoother and easier experience for setup compared to fedora as a new user.
